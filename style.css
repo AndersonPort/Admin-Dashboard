@@ -38,6 +38,7 @@ body {
 }
 .navigation.active {
     width: 80px;
+    height: 100%;
 }
 
 .navigation ul {
